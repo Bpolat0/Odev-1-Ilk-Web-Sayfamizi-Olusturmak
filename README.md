@@ -129,3 +129,17 @@
 *[Patika.dev](https://app.patika.dev/courses/html/en-cok-kullanilan-html-etiketleri-nelerdir)
 
 *[HTML Ses Ekleme](https://www.yusufsezer.com.tr/html-ses-ekleme/)
+
+<!DOCTYPE html>
+<html>
+   <head>
+
+   </head>
+   <body>
+      Patika.dev Linkim İçin Tıklayabilirsiniz:<br>
+      <a href="https://app.patika.dev/bpolat">
+         <img alt="Qries" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png"
+         width="150" height="150">
+      </a>
+   </body>
+</html>
