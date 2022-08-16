@@ -129,4 +129,3 @@
 *[Patika.dev](https://app.patika.dev/courses/html/en-cok-kullanilan-html-etiketleri-nelerdir)
 
 *[HTML Ses Ekleme](https://www.yusufsezer.com.tr/html-ses-ekleme/)
-
